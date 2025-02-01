@@ -10,5 +10,5 @@
 
 ```java
 System.out.printIn("Hello World");
-[Oklahoma City University](https://www.okcu.edu/)
+[Oklahoma City University](https://www.okcu.edu)
 
